@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevave",
+        "uuid": 2250360,
+        "checksum": "3un61a"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
